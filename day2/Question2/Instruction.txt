@@ -1,0 +1,9 @@
+# Read the data from the different sources:
+-csv, excel, api, txtfiles (multiple textfiles in the meaning_files folder)
+    api url = https://jsonplaceholder.typicode.com/posts
+
+#Merge the Customer data and the data from the api --> Use customer id and userid
+#Create a schema  called ETL_ASSIGNMENT_Q2
+#create a table called "productSales" load the merged file
+#Create a table called "Inventory" and load the inventory data
+#Create a table called "Meaning" and load the meaning data. Include and ID field with an auto increament of 1

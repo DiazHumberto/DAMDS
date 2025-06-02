@@ -1,0 +1,11 @@
+customer_id,name,email,phone,address
+1,Customer_1,customer1@example.com,555-001-1234,"Address_1, City"
+2,Customer_2,customer2@example.com,555-002-1234,"Address_2, City"
+3,Customer_3,customer3@example.com,555-003-1234,"Address_3, City"
+4,Customer_4,customer4@example.com,555-004-1234,"Address_4, City"
+5,Customer_5,customer5@example.com,555-005-1234,"Address_5, City"
+6,Customer_6,customer6@example.com,555-006-1234,"Address_6, City"
+7,Customer_7,customer7@example.com,555-007-1234,"Address_7, City"
+8,Customer_8,customer8@example.com,555-008-1234,"Address_8, City"
+9,Customer_9,customer9@example.com,555-009-1234,"Address_9, City"
+10,Customer_10,customer10@example.com,555-0010-1234,"Address_10, City"
