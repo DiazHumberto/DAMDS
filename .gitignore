@@ -2,4 +2,6 @@
 day1/
 day2/config.py
 day2/__pycache__
-day2/.ipynb_checkpoints/Snowflake-connection-checkpoint.ipyn
+day2/Snowflake-connection.ipynb
+day2/.ipynb_checkpoints/Snowflake-connection-checkpoint.ipynb
+day2/Untitled1.ipynb
